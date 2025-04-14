@@ -1,0 +1,130 @@
+[
+    {
+      "title": "Spotify Clone",
+      "start_date": "April 2022",
+      "end_date": "Mei 2022",
+      "description": "saya membuat clone ya Spotify yang ditugaskan untuk saya dalam keperluan tugas pribadi generasi gigih 2.0, Saya membuat menu login,home, playlist dan juga menu pencarian artis dan lagu lainnya.",
+      "skills": [
+        "Front-End Development",
+        "Object-Oriented Programming (OOP)"      
+     ],
+     "link": [
+       ""
+      ],
+     "linkAplikasi": [
+        "https://go-spotify.vercel.app/login"    
+      ],
+      "images": [
+        "https://media.licdn.com/dms/image/v2/D562DAQEBFm99U3hpzg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1701003536023?e=1745215200&v=beta&t=HHsZfewZO-KJlk-DVB7rJwTXN7_hNJZTwK1GA2X7FZ8"
+      ]
+    },
+
+    {
+      "title": "NetPus Apps",
+      "start_date": "Mei 2022",
+      "end_date": "Juli 2022",
+      "description": "disini saya hanya membuat bagian login dan dashboard. Di Halaman login dan registrasi saya membuat database menggunakan firebase dikarenakan firebase sangat mudah digunakan dan juga simple. di halaman dashboard dan fitur navigasi masing-masing saya buat untuk memudahkan team dalam membangun bagian-bagian tugas ya",
+      "skills": [
+        "Front-End Development",
+        "Problem Solving",
+        "Object-Oriented Programming (OOP)"      
+    ],
+    "link": [
+       ""
+      ],
+    "linkAplikasi": [
+        "https://netpus-app.vercel.app/"     
+      ],
+      "images": [
+        "https://media.licdn.com/dms/image/v2/D562DAQEFGGLyxGGygw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1701003252084?e=1745215200&v=beta&t=6fl__wznUbdrwTDUOESPyYBU1HGwTGiM3xKCnJnpazk"
+      ]
+    },
+
+    {
+      "title": "Desain Ux Research - Sepatu Bekas Original",
+      "start_date": "Oktober 2023",
+      "end_date": "Oktober 2023",
+      "description": "Membuat aplikasi sepatu bekas original untuk anak muda adalah konsep produk yang bertujuan untuk menciptakan platform online yang memungkinkan anak muda mencari dan membeli sepatu bekas original dengan lebih mudah dan efisien",
+      "skills": [
+        "Problem Solving",
+        "Object-Oriented Programming (OOP)",
+        "OProblem statement"
+      ],
+      "link": [
+       "https://www.figma.com/file/pMkIX97djU2cqXF1iIdUaO/Sepatubekas-Original-for-Youngsters"
+      ],
+      "linkAplikasi": [
+        "https://www.figma.com/proto/pMkIX97djU2cqXF1iIdUaO?node-id=4%3A317"     
+      ],
+      "images": [
+        "https://img.freepik.com/premium-vector/stop-sign-icon-notifications-that-anything_68708-468.jpg?w=826"
+      ]
+    },
+
+    {
+      "title": "Flutter UI - Sepatu Bekas Original Apps",
+      "start_date": "Oktober 2023",
+      "end_date": "November 2023",
+      "description": "Membuat aplikasi sepatu bekas original untuk anak muda adalah konsep produk yang bertujuan untuk menciptakan platform online yang memungkinkan anak muda mencari dan membeli sepatu bekas original dengan lebih mudah dan efisien. Ini aplikasi hanya bagian front end ya saja belum ada fungsi yang diberikan namun tenang aplikasi akan di upgrade supaya bisa ada fungsi ke database digunakan",
+      "skills": [
+        "Problem Solving",
+        "Object-Oriented Programming (OOP)",
+        "Multiplatform Flutter Mobile",
+        "Problem statement"
+      ],
+      "link": [
+       "https://www.youtube.com/watch?v=6FB-eAV2Jyg"
+      ],
+      "linkAplikasi": [
+        "https://drive.google.com/file/d/1B6dH82u56tWsyCHs0nz42aUFcRziTEay/view?usp=drivesdk&usp=embed_facebook&usp=embed_facebook"     
+      ],
+      "images": [
+        "https://media.licdn.com/dms/image/v2/D562DAQG_R_2-TDXlzQ/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1701001971827?e=1745215200&v=beta&t=uoCl9fwVYHYUms7sOdPFIGBAFejiu5FBluWCLNkEhdo"
+      ]
+    },
+
+    {
+      "title": "Share Notes Apps (CRUD) With Flutter & Firebase",
+      "start_date": "Desember 2023",
+      "end_date": "Desember 2023",
+      "description": "Hi... I will share my experience in this flutter project.Short Description: I actually want to make a notes application which wants to add to my experience in the field of flutter mobile Apps but I have a shortcoming that I did not add a user login to get some data in firebase, long story short I made share notes that aim to users to be able to write with complaints about problems faced today and future planning.Features Used in the Yes Application: You can see the home screen where there are several search buttons, data from notes and floating to create notes yes. In the criteria for creating notes, there are several functions, the first is Tittle, the current Date and also the writing you want to write. In addition to Create there is also a Reading menu and in that yes there are several functions, namely Tittle, Date and Writing that has been written (Main Content) and not only that I also create an UPDATE function on the main content and TITLE Then save and then it will change its contents. And for the Home menu I made the cursor hold click to be able to get a dialog alerd that functions to have a DELETE selection. In this yes application, I have added a search menu where when searching for TITLE it will be displayed if there is no note, then I also added internet connectivity if there is internet, yes data will appear if there is no internet then there is a writing no internet.Current progress: I have created a flutter application by integrating the database with firebase which is very easy to use and the UI is more attractive. In the previous few days I fixed the internet connection problem in the application I made. Duration of Work: 2 days Tools Used: Flutter, Firebase (CRUD) & VS Code",
+      "skills": [
+        "Problem Solving",
+        "Object-Oriented Programming (OOP)",
+        "Multiplatform Flutter Mobile",
+        "Problem statement"
+      ],
+      "link": [
+       "https://www.youtube.com/watch?v=-SzPnvtVL_I"
+      ],
+      "linkAplikasi": [
+        "https://drive.google.com/file/d/1EPGeaNUSoP7rdN2aKpIej42cTimcH_1d/view?usp=sharing&usp=embed_facebook"     
+      ],
+      "images": [
+        "https://media.licdn.com/dms/image/sync/v2/D5627AQHiZTHCOInweg/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1711154843320?e=1745215200&v=beta&t=OPUmrHzGb0daiZFnT75Uyz0TOFmoL2nvc0T1ER7WjK4"
+      ]
+    },
+
+    {
+      "title": "Flutter UI MultiApps Calculator, Calendar & Weather",
+      "start_date": "Desember 2023",
+      "end_date": "Desember 2023",
+      "description": "Saya melakukan pembuatan project ini untuk kebutuhan perkembangan belajar saya dibidang multiplatform flutter. Sehingga saya menyelesaikan beberapa project dengan baik namun belum sempurna karena saya membuat ya dari flutter UI saja tidak memakai database.Dalam project ini saya memakai hanya cuman API OpenWeather untuk pengambilan data api cuaca. Didalam project ini ada 3 halaman yang pertama untuk kalkulator , kalendar, & Cuaca.",
+      "skills": [
+        "Problem Solving",
+        "Object-Oriented Programming (OOP)",
+        "Multiplatform Flutter Mobile",
+        "Problem statement"
+      ],
+      "link": [
+       "https://www.youtube.com/watch?v=MMVlgAXijKE"
+      ],
+      "linkAplikasi": [
+        "https://drive.google.com/file/d/1BiZeIc_j4OQ8SVxnvtGuxYBOiZ7GAOR7/view?usp=drivesdk&usp=embed_facebook"     
+      ],
+      "images": [
+        "https://media.licdn.com/dms/image/v2/D562DAQFDqj-zmBealg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1702431134122?e=1745215200&v=beta&t=giCGiDfTCckz1wM9zF9fqCTdXR8-AD-gt6OEoC31M6U"
+      ]
+    }
+  ]
+  
