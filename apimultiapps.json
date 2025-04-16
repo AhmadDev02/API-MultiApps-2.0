@@ -2,6 +2,72 @@
 
   "portofolio_sumary": "I am an Information Systems student at Universitas Muhammadiyah Sumatera Utara (UMSU), entering my final semester. Born and raised in Medan City, my passion for technology and software development shaped the career path I pursued. In the course of my education, I have built a number of key skills. I have proficiency in software development as a frontend developer, as well as basic programming. I have also mastered app development using Flutter.In addition, I have experience in auditing information systems, which gives me great insight into the efficiency and security of business operations.My experience includes a 5-month internship at Kampus Merdeka, where I focused on digitalization. I successfully developed a web application to monitor continuous production and played an important role in the development of RFID technology with web integration. I also gained valuable experience at PT Kalbe Nutritinals Sanghiang Perkasa, an international company that honed my understanding of the demands of the industrial world. One of my significant achievements was designing a web application for effective production monitoring. I also successfully followed the COBIT 5 flow in auditing information systems, demonstrating my commitment to good security and management standards.My career goal is clear: I want to create system interfaces that provide convenience to users and improve work efficiency. More than just programming, I also have a vision to develop high-value products for people.In addition to technical skills, I have strong communication skills. I have led student organizations and brought positive changes. I am comfortable speaking in public and have a planned approach to each presentation. I also have an interest in developing businesses, along with a hobby of playing badminton.My vision is to create convenience and help people's needs through products and innovation. I am ready to face challenges and realize these goals in my career journey.",
 
+  "courses":[
+    {
+      "title": "Student",
+      "employment_type": "Part-time",
+      "description": "Mengikuti kelas Full Courses Flutter With ITBOX",
+      "start_date": "Agustus 2023",
+      "end_date": "Present",
+      "company_organization": "IT BOX",
+      "images_company_organization": ["https://itbox.id/wp-content/uploads/2022/08/ITbox-Logo.png"] 
+    },
+    {
+      "title": "Computer Networking",
+      "employment_type": "Contract",
+      "description": "",
+      "start_date": "Desember 2023",
+      "end_date": "Juni 2024",
+      "company_organization": "Universitas Muhammadiyah Sumatera Utara",
+      "images_company_organization": ["https://i0.wp.com/umsu.ac.id/wp-content/uploads/2023/07/LOGO-UMSU-BARU-1.png?resize=1086%2C1536&ssl=1"] 
+    },
+    {
+      "title": "Junior Network Engineer",
+      "employment_type": "Internship",
+      "description": "I have experienced networking in my own college and also learned many things.",
+      "start_date": "Desember 2023",
+      "end_date": "November 2019",
+      "company_organization": "Universitas Muhammadiyah Sumatera Utara",
+      "images_company_organization": ["https://i0.wp.com/umsu.ac.id/wp-content/uploads/2023/07/LOGO-UMSU-BARU-1.png?resize=1086%2C1536&ssl=1"] 
+    },
+    {
+      "title": "Student",
+      "employment_type": "Part-time",
+      "description": "Mengikuti kelas-kelas di Dicoding",
+      "start_date": "April 2021",
+      "end_date": "Desember 2023",
+      "company_organization": "Dicoding Indonesia",
+      "images_company_organization": ["https://help.dicoding.com/wp-content/uploads/2021/01/dicoding-edit-2048x682.jpg"] 
+    },
+    {
+      "title": "Digitalisasi",
+      "employment_type": "Internship",
+      "description": "Involved in the creation of RFID tracking dashboard web using C# language, Performed the KeyInDumping web process using C# programming language, java script and CRUD sql server in accordance with the company's OOP, Create document creation processes such as FSD and also document needs in building web dashboard systems and also web KeyInDumping",
+      "start_date": "Agustus 2022",
+      "end_date": "Desember 2022",
+      "company_organization": "PT Kalbe Nutritionals Sanghiang Perkasa",
+      "images_company_organization": ["https://algorit.ma/wp-content/uploads/2023/03/Logo-Kalbe-Nutritionals.png"] 
+    },
+    {
+      "title": "Partcipant",
+      "employment_type": "Part-time",
+      "description": "",
+      "start_date": "Ferbruari 2022",
+      "end_date": "Agustus 2022",
+      "company_organization": "Generasi GIGIH 2.0",
+      "images_company_organization": ["https://gengigih.demopreview.link/assets/gengigih-logo.png"] 
+    },
+    {
+      "title": "Student",
+      "employment_type": "Part-time",
+      "description": "",
+      "start_date": "November 2021",
+      "end_date": "Agustus 2022",
+      "company_organization": "Progate",
+      "images_company_organization": ["https://vectorseek.com/wp-content/uploads/2023/05/Progate-Logo-Vector.jpg"] 
+    }
+  ],
+
   "projects": [
     {
       "title": "Spotify Clone",
